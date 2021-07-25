@@ -12,7 +12,7 @@
     <artifactId>personapi</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>personapi</name>
-    <description>Person API developed for digital innovation one course by Antonio Luiz</description>
+    <description>Person API developed for Digital Innovation One course and modified by Antonio Luiz</description>
 
     <properties>
         <java.version>11</java.version>
